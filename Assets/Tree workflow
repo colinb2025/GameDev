@@ -1,0 +1,13 @@
+1. Click on object and enter edit mode (top left)
+2. Press A to select all vertices
+3. Press M to merge at center
+4. Press E to extrude and make branches
+5. Wrench -> add modifier -> skin
+6. Alt + Z -> Select branches and press Ctrl + A to scale
+7. Go into object mode
+8. Shift + Right click on end of branch (cursor)
+9. Shift + A to add to Icosphere
+10. Shift + D to duplicate
+11. S to scale
+12. G to move
+13. R to rotate
